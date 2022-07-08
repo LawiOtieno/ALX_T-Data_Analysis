@@ -8,7 +8,7 @@ ALX-T Data Analyst Nanodegree program, sponsored by ALX.
 
 1. [Investigate a Dataset](https://github.com/LawiOtieno/ALX_T-Data_Analysis/tree/main/1-Investigate_a_Dataset)
 
-2. [](https://github.com/LawiOtieno/ALX_T-Data_Analysis/tree/main/2-Data_Wrangling-Twitter_Data)
+2. [Data Wrangling](https://github.com/LawiOtieno/ALX_T-Data_Analysis/tree/main/2-Data_Wrangling-Twitter_Data)
 
 3. []()
 

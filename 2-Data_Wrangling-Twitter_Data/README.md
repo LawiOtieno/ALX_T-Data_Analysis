@@ -1,6 +1,6 @@
-# Investigate_a_Dataset
+# Data Wrangling
 
-Data Analysis of information about 10,000 movies collected from The Movie Database (TMDb)
+Data Wrangling and Analysis of twitter data from [@dog_rates](https://twitter.com/dog_rates).
 
 ## Technologies Used
 
@@ -8,7 +8,9 @@ Data Analysis of information about 10,000 movies collected from The Movie Databa
 * Pandas
 * Matplotlib
 * Seaborn
-
+* BeautifulSoup
+* Tweepy
+* Json
 
 ## Author(s) Info
 
@@ -16,7 +18,7 @@ Name 👨🏽‍💻: __Lawrence Otieno__
 
 * Fields: Software Development 💻, Data Analysis 📊, Digital Marketing 💹, Data Entry 📑.
 
-* Languages: Python __(__Django__, Flask), JavaScript (__Angular__, React), C programming, R programming.
+* Languages: Python __(__Django__, Flask), JavaScript (__Angular__, React), C programming, R programming, SQL.
 
 * Website visit: [🌐My Portfolio](https://lawiotieno.github.io/portfolio)
 
