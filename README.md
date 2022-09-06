@@ -10,9 +10,9 @@ ALX-T Data Analyst Nanodegree program, sponsored by ALX.
 
 2. [Data Wrangling](https://github.com/LawiOtieno/ALX_T-Data_Analysis/tree/main/2-Data_Wrangling-Twitter_Data)
 
-3. []()
+3. [Communicate Data Findings](https://github.com/LawiOtieno/ALX_T-Data_Analysis/tree/main/3-Prosper_Loan_Data)
 
-4. []()
+<!-- 4. []()
 
 5. []()
 
@@ -20,7 +20,7 @@ ALX-T Data Analyst Nanodegree program, sponsored by ALX.
 
 7. []()
 
-8. []()
+8. []() -->
 
 ## Author(s) Info
 
@@ -28,11 +28,18 @@ Name 👨🏽‍💻: __Lawrence OTIENO__
 
 * Fields: Software Development 💻, Data Analysis 📊, Digital Marketing 💹, Data Entry 📑.
 
-* Languages: Python __(__Django__, Flask), JavaScript (__Angular__, React), C programming, R programming.
+* Languages: Python (__Django__, Flask), JavaScript (__Angular__, React), C programming, R programming.
 
-* Website visit: [🌐My Portfolio](https://lawiotieno.github.io/portfolio)
+* Send: [📧 Email](mailto:lawifirst@gmail.com)
 
-* MORE INFO 🌐: [More Links🔗 Here](https://shor.by/lawi)
+* Phone: [📞+254708581688](tel:+254708581688)
+
+* Visit: [🌐 My portfolio](https://lawiotieno.github.io/portfolio)
+
+* MORE 🔗: [Click Here](https://shor.by/lawi)
+
+<p> <a href="https://github.com/streetgrandmaster" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/LawiGrandmaster" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/streetgrandmaster" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@streetgm" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ## Support/Donate
 
@@ -57,4 +64,3 @@ For any Support or Feedback, fill free to contact:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
 
 <!-- [MIT License](https://choosealicense.com/licenses/mit/) -->
-
