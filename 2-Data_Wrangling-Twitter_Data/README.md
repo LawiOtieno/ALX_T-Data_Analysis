@@ -1,6 +1,6 @@
 # Data Wrangling
 
-Data Wrangling and Analysis of twitter data from [@dog_rates](https://twitter.com/dog_rates).
+Data Wrangling and Analysis of data from WeRateDogs Twitter account [@dog_rates](https://twitter.com/dog_rates) using Python. This Twitter account rates dogs with humorous commentary.
 
 > Main work: [wrangle_act.ipynb](https://github.com/LawiOtieno/ALX_T-Data_Analysis/blob/main/2-Data_Wrangling-Twitter_Data/wrangle_act.ipynb) and [act_report.ipynb](https://github.com/LawiOtieno/ALX_T-Data_Analysis/blob/main/2-Data_Wrangling-Twitter_Data/act_report.ipynb)
 
