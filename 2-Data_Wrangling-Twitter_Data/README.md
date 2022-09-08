@@ -2,6 +2,8 @@
 
 Data Wrangling and Analysis of twitter data from [@dog_rates](https://twitter.com/dog_rates).
 
+> Main work: [wrangle_act.ipynb](https://github.com/LawiOtieno/ALX_T-Data_Analysis/blob/main/2-Data_Wrangling-Twitter_Data/wrangle_act.ipynb)
+
 ## Technologies Used
 
 * Python
